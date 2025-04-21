@@ -39,4 +39,4 @@ This screenshot shows the **Back-End Database** structure that supports the appl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-springboot.git
+   git clone https://github.com/Harishanan/E-commerce-SpringBoot.git
