@@ -27,6 +27,19 @@ This screenshot shows the **Back-End Database** structure that supports the appl
 
 ---
 
+## API Documentation
+
+The **E-commerce SpringBoot** project provides a set of RESTful API endpoints to manage products and orders. Below is a table that outlines the key API endpoints:
+
+### API Endpoints Table
+Here is an image of the API table showing the various endpoints:
+
+![API Endpoints Table](images/APIs.png)
+
+The table above shows the various API methods, URL paths, request/response formats, and descriptions.
+
+---
+
 ## Technologies Used
 - **Backend**: Spring Boot, Java
 - **Frontend**: React and Vite
