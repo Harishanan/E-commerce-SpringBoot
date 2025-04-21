@@ -1,5 +1,5 @@
 # E-commerce-SpringBoot
 
-![Developed ecommerce website](images/product-catlog-website.png)
+![Developed ecommerce website](images/product-catlog-website.png) <br> <br>
 
 ![Developed backend database ](images/Back-end-database.png)
