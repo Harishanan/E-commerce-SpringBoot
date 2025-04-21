@@ -53,9 +53,12 @@ This screenshot shows the **Back-End Database** structure that supports the appl
    ```bash
    http://localhost:8080/api/products
 
+---
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+---
 
 ### Key Improvements:
 1. **Project Title**: The title now clearly states "E-commerce SpringBoot Project" for clarity.
